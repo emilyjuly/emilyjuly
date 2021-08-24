@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou @emilyjuly sou estudante de engenharia e lincenciatura em computação. Trabalho na área da tecnologia com suporte técnico.
+- 👋 Olá, eu sou @emilyjuly sou estudante de engenharia da computação. Trabalho na área da tecnologia com suporte técnico.
 - 👀 Tenho interesse em todas as áreas de tecnologia.
 - 🌱 Eu estou aprendendo C.
 
