@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emilyjuly&show_icons=true&theme=dracula&title_color=ee8ccf&text_color=f594d6&bg_color=313030&locale=en" alt="emilyjuly" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilyjuly&" alt="emilyjuly" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emilyjuly&theme=dark" alt="emilyjuly" /></p>
