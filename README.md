@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilyjuly&label=Profile%20views&color=ec8ee4&style=flat" alt="emilyjuly" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emilyjuly" alt="emilyjuly" /></a> </p>
-
 - 🔭 I’m currently working on **technical support at Indra Company.**
 
 - 🌱 I’m currently learning **CSS, HTML, JavaScript and I intend to learn some JavaScript framewok.**
