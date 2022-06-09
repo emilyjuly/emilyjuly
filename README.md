@@ -3,21 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilyjuly&label=Profile%20views&color=ec8ee4&style=flat" alt="emilyjuly" /> </p>
 
-- 🔭 I’m currently working on **technical support at Indra Company.**
-
 - 🌱 I’m currently learning **CSS, HTML, JavaScript and I intend to learn some JavaScript framewok.**
 
-- 👯 I’m looking to collaborate on **web page projects.**
-
-- 🤝 I’m looking for help with **my front-end projects.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/emilyjuly](https://github.com/emilyjuly)
-
 - 📫 How to reach me **emilyjulygd@gmail.com.**
-
-- 📄 Know about my experiences [I've worked on technology projects during my IT technical course. I'm currently working with technical support for almost 2 years. I participate in bootcamps, and take courses to migrate to the front-end development area.](I've worked on technology projects during my IT technical course. I'm currently working with technical support for almost 2 years. I participate in bootcamps, and take courses to migrate to the front-end development area.)
-
-- ⚡ Fun fact **I never know how to write the word "length" when I program in JavaScript (I always use autocomplete).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
