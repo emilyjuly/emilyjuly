@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emily July</h1>
-<h3 align="center">A front-end developer in training</h3>
+<h3 align="center">A developer in training</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilyjuly&label=Profile%20views&color=ff00d0&style=flat" alt="emilyjuly" /> </p>
-
-- 🌱 I’m currently learning **CSS, HTML, JavaScript and I intend to learn some JavaScript framewok.**
 
 - 📫 How to reach me **emilyjulygd@gmail.com.**
 
