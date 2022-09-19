@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emily July</h1>
-<h3 align="center">A developer in training</h3>
+<h3 align="center">A junior developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilyjuly&label=Profile%20views&color=ff00d0&style=flat" alt="emilyjuly" /> </p>
 
