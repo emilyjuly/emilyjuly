@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilyjuly&label=Profile%20views&color=ff00d0&style=flat" alt="emilyjuly" /> </p>
 
 - 📫 How to reach me **emilyjulygd@gmail.com.**
-- <a href="https://personal-portfolio-emilyjuly.vercel.app">Portfolio</a>
+- <a href="https://portfolio-emilyjuly.vercel.app">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
